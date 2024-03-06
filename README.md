@@ -35,10 +35,10 @@ python main.py
 ### Open config.json to add / remove ids, add / remove groupchat names and change your token
 ```json
 {
-    "token": "MTIxNDQ4NDA2NDQyMjIwNzUzOQ.Guwm_9.NbwdkLM3FY18zV_GL_ovP36-VP3GJ6aVifk87A",
+    "token": "discord-token",
 
     "names":      ["hello", "lmao?", "topg"],
-    "recipients": ["1159399315647758347","833223691365122048"],
+    "recipients": ["id1","id2"],
 
     "delay": 0.5
 }
